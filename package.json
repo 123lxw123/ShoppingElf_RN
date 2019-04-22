@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "react": "16.8.3",
+    "redux": "^4.0.1",
+    "redux-saga": "^1.0.2",
+    "react-redux": "^7.0.2",
     "react-native": "0.59.4",
     "react-navigation": "3.8.1",
     "react-native-gesture-handler": "1.1.0"
