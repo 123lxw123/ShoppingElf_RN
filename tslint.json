@@ -6,7 +6,8 @@
   "linterOptions": {
     "exclude": [
       "**/*.js",
-      "**/*.jsx"
+      "**/*.jsx",
+      "node_modules"
     ]
   },
   "rules": {
