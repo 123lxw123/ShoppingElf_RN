@@ -7,7 +7,7 @@
     "exclude": [
       "**/*.js",
       "**/*.jsx",
-      "node_modules"
+      "**/node_modules/**/*"
     ]
   },
   "rules": {
